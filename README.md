@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 -->
 
 i'm cecilia, a second year student at uc berkeley, studying astrophysics and data science. 
+
+this repo serves as my coding portfolio
+
 feel free to reach out: ceciliasun AT berkeley DOT edu
+
+last updated mar 2026
