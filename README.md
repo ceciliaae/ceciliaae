@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-i'm cecilia, a second year student at uc berkeley, studying astrophysics and data science. 
+i'm cecilia, a second year student at uc berkeley, studying astrophysics and data science. feel free to reach out: ceciliasun AT berkeley DOT edu
 
 this repo serves as my coding portfolio
-
-feel free to reach out: ceciliasun AT berkeley DOT edu
 
 last updated mar 2026
